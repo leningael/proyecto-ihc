@@ -1,4 +1,5 @@
 # Proyecto de Interacción Humano Computadora
+Infomercial: https://youtu.be/mBVUe-goStc  
 ## Miembros del equipo
 | Nombre | Perfil | Foto |
 | -- | -- | -- |
